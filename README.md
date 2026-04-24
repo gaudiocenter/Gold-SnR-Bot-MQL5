@@ -19,3 +19,8 @@ Structural Purge (New Update): A safety handshake that detects breakouts. If 3 c
 Hidden Hard Stop: $80 per position.
 Profit Circuit Breaker: EA shuts down automatically at $255 profit.
 Volatility Filter: ATR-based entry blocking during unstable market conditions.
+
+## 📈 Latest Performance Overview
+![Balance Graph](ReportHistory-51822614.png)
+
+*The chart above illustrates the equity growth from Day 1, demonstrating the stability of the S&R Mean Reversion strategy.*
